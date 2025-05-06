@@ -1,0 +1,14 @@
+DUTCH RENTING SYSTEM INFO AND LINKS
+- So let’s start with the basics. There’s two ways of renting: social housing, which is always done by corporations or associations. This means lower rent limits, but also waiting lists and lower quality housing. Then there’s private renting, called “particulier” because you rent from a landlord, not a corporation. Your options in housing are more varied and bigger, with more amenities etc. but also higher rent limits. You also don’t have to go on wait lists, you can make a contract whenever you see fit.
+- There’s 3 “types” of residences that are being rented (I don’t know official english counterpart names for them, so bear with me as I make up english translations for them): social housing (“sociale huurwoning”), middle housing (“middenhuurwoning”), and free sector housing (“vrijesectorwoning”). These are determined by a points system (I linked the graph below), and in turn determine what your limit of rent pricing is.
+- The points system is determined by things like surface area in square meters, energy use/waste, worth of the residence (this is determined by the government) etc. There’s separate pointing counts per type of residence (think apartments vs single rooms vs trailer park).
+- The biggest differences between these that you need to know is that social housing and middle housing have rent limits set by the government, and free sector housing does not. So basically you will be renting from a landlord, and the type of residence (the listing HAS to have points information included) will determine if you have a rent limit, and what the maximum of rent is.
+- Social housing doesn’t apply here (only available to yearly incomes lower than 46,000,-).
+- Middle housing has a rent maximum of 1184,82 (2025).
+- Free sector housing has extra rules that apply to contracts before certain times (2024) but those don’t apply to you, so there’s no rent maximum and the landlord can determine how much to charge.
+- Important to note is that the maximum rent limits are without things like amenities, this is pure building rent. So you can pay more for service, potential gas/electricity etc. 
+
+LINKS
+- [Government site, page about maximum rent per type of renting residence](https://www.rijksoverheid.nl/onderwerpen/woning-huren/vraag-en-antwoord/hoeveel-huur-betaal-ik-maximaal-voor-mijn-woning) (this has the explanation of the types of housing and maximum rent, but also the points system that determines the rent)
+- [Listing of housing points determined rent prices (Dec 2024)](https://www.huurwoningpunten.nl/nieuws/punten-naar-huur/) 
+- [Government page with all relevant renting info like renter’s protection, renting conditions, maximum rent raising, maximum rent prices etc](https://www.rijksoverheid.nl/onderwerpen/woning-huren)

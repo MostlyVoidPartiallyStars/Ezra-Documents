@@ -1,0 +1,3 @@
+- [Government site, page about maximum rent per type of renting residence](https://www.rijksoverheid.nl/onderwerpen/woning-huren/vraag-en-antwoord/hoeveel-huur-betaal-ik-maximaal-voor-mijn-woning) (this has the explanation of the types of housing and maximum rent, but also the points system that determines the rent)
+- [Listing of housing points determined rent prices (Dec 2024)](https://www.huurwoningpunten.nl/nieuws/punten-naar-huur/) 
+- [Government page with all relevant renting info like renter’s protection, renting conditions, maximum rent raising, maximum rent prices etc](https://www.rijksoverheid.nl/onderwerpen/woning-huren)
