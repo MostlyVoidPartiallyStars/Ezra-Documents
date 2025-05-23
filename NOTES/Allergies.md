@@ -1,0 +1,6 @@
+- bananas 
+- apple 
+- probably just weak to spice?? since i can do paprika (peppers) just fine and capsaicin is rare 
+- carrots
+- latex
+- egg sensitive, 1 per day max
